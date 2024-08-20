@@ -21,4 +21,3 @@
 11. pip install -r requirements.txt
 
 12. python main.py
-
