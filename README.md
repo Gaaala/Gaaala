@@ -6,7 +6,7 @@
 
 4. pkg install python-pip
 
-5. git clone https://github.com/cpmsale/cpmtool.git
+5. git clone https://github.com/Gaaala/Gaaala.git
 
 6. cd cpmtool
 
